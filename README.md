@@ -1,4 +1,4 @@
-# Jellyfish Identification with ML
+# Jellyfish Galaxy Identification with Machine Learning
 
 final_classified_sample_clusters.csv has the real labels for the galaxy sample and also their ids and coordinates
 
